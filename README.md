@@ -90,4 +90,7 @@ Task 1: Used **Tableau** to create an interactive dashboard using medical readmi
 
 Task 2: Presented my dashboard to a team of fellow data analysts
 
+*Tools Used*
+- Tableau
+
 ## D602
