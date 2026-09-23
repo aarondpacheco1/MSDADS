@@ -9,3 +9,15 @@ In the Analytics Programming course, I honed my algorithmic thinking using Pytho
 - Documented complex programming tasks into manageable components.
 - Integrated programming syntax, control elements, and modular components from Python and R.
 - Performed data acquisition and organization using analytics programming languages.
+
+
+# Tools Used In Each Task
+
+## Task 2
+
+Python
+- Pandas
+
+## Task 3
+
+Tableau
