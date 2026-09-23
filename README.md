@@ -54,6 +54,24 @@ Task 3: Used **Tableau** to create visualizations for the business performance d
 
 Task 1: Used **Pandas and Numpy** to clean and prepare Employee Turnover Data for analysis
 
-Task 2: Used **Pandas, Numpy, Matplotlib, and Seaborn** to make data visualizations and find descriptive statistics of Health Insurance Data
+Task 2: Used **Pandas, Numpy, Matplotlib, Seaborn, Scipy, and Statsmodels** to make data visualizations, find descriptive statistics, and perform statistical analysis (t-test and Kruskal Wallis) of Health Insurance Data
+
+Task 3: Used **Pandas and MLxtend** to use an Apriori algorithm and perform Market Basket Analysis to determine what products are frequently sold together on an online platform
+
+*Tools used*
+- Python
+- - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+  - Scipy
+  - Statsmodels
+  - MLxtend
+
+## D600
+
+Task 1: Used **Pandas, Matplotlib, Seaborn, Statsmodels, and Scikitlearn** to perform *Multiple Linear Regression* with *Backward Stepwise Elimination* to build a regression model to predict housing prices.
+
+Task 2: Used **Pandas, Matplotlib, Seaborn, Statsmodels, and Scikitlearn** to perform *Logistic Regression* with *Backward Stepwise Elimination* to build a regression model to predict the luxury status of houses.
 
 Task 3: 
