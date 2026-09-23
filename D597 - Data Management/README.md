@@ -22,3 +22,13 @@ By the end of the course, I was able to:
 4. **Develop Models**: Built logical and physical data models.
 5. **Query Databases**: Executed queries to address business questions.
 6. **Manipulate Data**: Used data manipulation techniques effectively.
+
+## Tools Used for Each Task
+
+# Task 1
+
+PostgreSQL
+
+# Task 2
+
+MongoDB
