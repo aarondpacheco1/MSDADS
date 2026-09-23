@@ -5,7 +5,7 @@ Welcome to my repository for projects completed during a Master of Science in Da
 
 ## Introduction
 
-I entered the Master of Science in Data Analytics (MSDA) program in January 2025, with an undegraduate degree from Illinois State University in Physics. My prior experience consists of 8 years as a high school physics teacher. I am on track to finish my program by December 2026.
+I entered the Master of Science in Data Analytics (MSDA) program in January 2025, with an undergraduate degree from Illinois State University in Physics. My prior experience consists of 8 years as a high school physics teacher. I am on track to finish my program by December 2026.
 
 Throughout this program, I have built a strong foundation in data analysis, learning to use tools and techniques such as Python, SQL, data visualization, and machine learning. This repository showcases the projects I have completed during my journey, reflecting my growth and the skills I have acquired.
 
