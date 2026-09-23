@@ -8,3 +8,39 @@ In the Statistical Data Mining course, I gained knowledge in data preparation an
 
 - Executed linear and logistic regressions to derive actionable recommendations.
 - Applied principal component analysis (PCA) for dimensional reduction and insight generation.
+
+
+# Tools Used for Each Task
+
+## Task 1
+
+Linear Regression Performed Using Python
+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Statsmodels
+- Scikitlearn
+
+## Task 2
+
+Logistic Regression Performed Using Python
+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Statsmodels
+- Scikitlearn
+
+## Task 3
+
+Principal Component Analysis Performed Using Python
+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Statsmodels
+- Scikitlearn
