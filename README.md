@@ -20,3 +20,40 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 - Jupyter Notebook: For documenting and sharing analysis.
 - MongoDB: For NoSQL database management and handling unstructured data.
 - pgAdmin: For managing PostgreSQL databases with a graphical interface.
+
+# Course Project Summaries
+
+## D596
+
+A basic introduction to the world of data analytics. Served as an introduction to many of the tools used in data analytics but no practical use of any tools.
+
+## D597
+
+Task 1: I designed a relational database and used **PostgreSQL** to properly implement and optimize the database for the order and product data of an online sales platform.
+
+Task 2: I designed a NoSQL database using **MongoDB** to build a flexible and scalable database for a health company to track the fitness trackers for a variety of patients
+
+*Tools Used*
+- PostgreSQL
+- MongoDB
+
+## D598
+
+Task 1: Flowcharted and planned code to clean, calculate, analyze, and combine data with dataframes using **Python** and **Pandas**
+
+Task 2: Used **Python** and **Pandas** to clean, calculate, analyze, and combine business performance data
+
+Task 3: Used **Tableau** to create visualizations for the business performance data analyzed in Task 2
+
+*Tools Used*
+- Python
+- - Pandas
+- Tableau
+
+## D599
+
+Task 1: Used **Pandas and Numpy** to clean and prepare Employee Turnover Data for analysis
+
+Task 2: Used **Pandas, Numpy, Matplotlib, and Seaborn** to make data visualizations and find descriptive statistics of Health Insurance Data
+
+Task 3: 
