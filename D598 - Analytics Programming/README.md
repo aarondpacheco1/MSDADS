@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-In the Analytics Programming course, I honed my algorithmic thinking using Python and R. Building on foundational programming knowledge, I utilized libraries and packages to handle tasks such as data acquisition, organization, and manipulation. I also explored methods for applying statistical functions and creating graphical user interfaces for analysis and presentation.
+In the Analytics Programming course, I honed my algorithmic thinking using Python. Building on foundational programming knowledge, I utilized libraries and packages to handle tasks such as data acquisition, organization, and manipulation. I also explored methods for applying statistical functions and creating graphical user interfaces for analysis and presentation.
 
 ## Key Learnings
 
