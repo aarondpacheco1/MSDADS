@@ -70,8 +70,24 @@ Task 3: Used **Pandas and MLxtend** to use an Apriori algorithm and perform Mark
 
 ## D600
 
-Task 1: Used **Pandas, Matplotlib, Seaborn, Statsmodels, and Scikitlearn** to perform *Multiple Linear Regression* with *Backward Stepwise Elimination* to build a regression model to predict housing prices.
+Task 1: Used **Pandas, Matplotlib, Seaborn, Statsmodels, and Scikitlearn** to clean data, create data visualizations, and perform *Multiple Linear Regression* with *Backward Stepwise Elimination* to build a regression model to predict housing prices.
 
-Task 2: Used **Pandas, Matplotlib, Seaborn, Statsmodels, and Scikitlearn** to perform *Logistic Regression* with *Backward Stepwise Elimination* to build a regression model to predict the luxury status of houses.
+Task 2: Used **Pandas, Matplotlib, Seaborn, Statsmodels, and Scikitlearn** to clean data, create data visualizations, and perform *Logistic Regression* with *Backward Stepwise Elimination* to build a regression model to predict the luxury status of houses.
 
-Task 3: 
+Task 3: Used **Pandas, Matplotlib, Seaborn, Statsmodels, and Scikitlearn** to clean data, create data visualizations, and perform *Principal Component Analysis* with *Kaiser Rule* to build a regression model to predict housing prices.
+
+*Tools Used*
+- Python
+- - Pandas
+  - Matplotlib
+  - Seaborn
+  - Statsmodels
+  - Scikitlearn
+ 
+## D601
+
+Task 1: Used **Tableau** to create an interactive dashboard using medical readmission data containing multiple filters including state and risk level. Explained how the interactive dashboard was designed with multiple stakeholders and their goals in mind.
+
+Task 2: Presented my dashboard to a team of fellow data analysts
+
+## D602
